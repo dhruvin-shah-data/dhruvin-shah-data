@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/dhruvin--shah22/)" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>&nbsp;
   <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="blank">
@@ -17,10 +17,10 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🧑‍💼 I'm a Data Analyst / Data Enthusiast
 - 💻 I use daily: **.py**, **.sql**
-- 📖 I’m currently reading: **(your current book)**
+- 📖 I’m currently reading: **Atomic Habits** by James Clear
 - 💬 Talk to me about data, football, cricket, python, startups
-- 👯 Always up for: Chess ♟ / casual games
-- ⚡ Fun fact: (your fun fact)
+- 👯 Always up for: Clash Royale and Chess ♟
+- ⚡ Fun fact: Listen to your mom! Always
 - 🧑‍💻 Tech I work on:
 
 <p align="center"> 
