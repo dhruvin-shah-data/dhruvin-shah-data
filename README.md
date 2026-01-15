@@ -13,7 +13,7 @@
 - 🧑‍💼 I'm a Data Analyst
 - 💻 I use daily: **.py**, **.sql**
 - 📖 I’m currently reading: **Atomic Habits** by James Clear
-- 💬 Talk to me about data, football, cricket, python, startups
+- 💬 Talk to me about data, football, cricket, startups
 - 👯 Always up for: Clash Royale and Chess ♟
 - ⚡ Fun fact: Listen to your mom! Always
 - 🧑‍💻 Tech I work on:
