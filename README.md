@@ -29,16 +29,6 @@
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> My GitHub Stats:
-
-![Dhruvin's github stats](https://github-readme-stats.vercel.app/api?username=dhruvin-shah-data&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvin-shah-data&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvin-shah-data&theme=dark)](https://git.io/streak-stats)
-
----
-
 <!--START_SECTION:yearprogress-->
 ⏳ **Year Progress:** (auto-updating...)
 <!--END_SECTION:yearprogress-->
